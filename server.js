@@ -10,5 +10,4 @@ app.get("/", function (req, res) {
 });
 
 app.listen(PORT);
-console.log();
 console.log("Running on http://localhost:" + PORT);
